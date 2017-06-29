@@ -1,0 +1,436 @@
+State,CD,STATE_CD,Last_name,First_name,Party,PVI,Sixteen_Winner,Sixteen_Margin,Trump_tot,Clinton_tot,Twelve_winner,Twelve_Margin,Romney_tot,Obama_tot,Trump_net_percentage
+TX,13,TX-13,THORNBERRY, MAC ,R,R+33,Trump,63,80,17,Romney,62,80,19,-1
+TX,11,TX-11,CONAWAY, MIKE ,R,R+32,Trump,59,78,19,Romney,60,79,20,-2
+GA,9,GA-9,COLLINS, DOUG ,R,R+31,Trump,59,78,19,Romney,58,78,21,0
+KY,5,KY-5,ROGERS, HAROLD ,R,R+31,Trump,62,80,18,Romney,52,75,23,5
+AL,4,AL-4,ADERHOLT, ROBERT ,R,R+30,Trump,63,80,17,Romney,51,75,24,5
+TN,1,TN-1,ROE, PHIL ,R,R+28,Trump,57,76,20,Romney,47,73,26,4
+TX,8,TX-8,BRADY, KEVIN ,R,R+28,Trump,48,72,24,Romney,55,77,22,-5
+TX,4,TX-4,RATCLIFFE, JOHN ,R,R+28,Trump,53,75,22,Romney,49,74,25,1
+OK,3,OK-3,LUCAS, FRANK ,R,R+27,Trump,53,74,21,Romney,48,74,26,0
+GA,14,GA-14,GRAVES, TOM ,R,R+27,Trump,53,75,22,Romney,48,73,25,2
+NE,3,NE-3,SMITH, ADRIAN ,R,R+27,Trump,54,74,20,Romney,42,70,28,4
+TX,19,TX-19,ARRINGTON, JODEY ,R,R+27,Trump,49,72,23,Romney,49,74,25,-2
+AL,6,AL-6,PALMER, GARY ,R,R+26,Trump,44,70,26,Romney,50,74,25,-5
+UT,1,UT-1,BISHOP, ROB ,R,R+26,Trump,22,50,22,Romney,57,78,20,-28
+TX,36,TX-36,BABIN, BRIAN ,R,R+26,Trump,47,72,25,Romney,47,73,26,-1
+UT,3,UT-3,CHAFFETZ, JASON ,R,R+25,Trump,18,47,23,Romney,59,79,20,-31
+WY,AL,WY-AL,CHENEY, LIZ ,R,R+25,Trump,46,68,22,Romney,41,69,28,0
+TX,1,TX-1,GOHMERT, LOUIE ,R,R+25,Trump,47,72,25,Romney,44,72,28,0
+KS,1,KS-1,MARSHALL, ROGER ,R,R+24,Trump,45,69,24,Romney,42,70,28,-1
+TN,6,TN-6,BLACK, DIANE ,R,R+24,Trump,49,72,24,Romney,40,69,30,3
+MO,8,MO-8,SMITH, JASON ,R,R+24,Trump,54,75,21,Romney,34,66,32,9
+LA,1,LA-1,SCALISE, STEVE ,R,R+24,Trump,42,69,27,Romney,44,71,27,-2
+OK,2,OK-2,MULLIN, MARKWAYNE ,R,R+24,Trump,50,73,23,Romney,36,68,32,5
+MO,7,MO-7,LONG, BILLY ,R,R+23,Trump,46,70,25,Romney,37,68,30,3
+KY,1,KY-1,COMER, JAMES ,R,R+23,Trump,49,72,24,Romney,34,66,32,6
+WV,3,WV-3,JENKINS, EVAN ,R,R+23,Trump,49,73,23,Romney,32,65,33,8
+FL,1,FL-1,GAETZ, MATT ,R,R+22,Trump,39,68,28,Romney,39,70,31,-2
+IL,15,IL-15,SHIMKUS, JOHN ,R,R+21,Trump,46,71,24,Romney,30,64,34,7
+AZ,4,AZ-4,GOSAR, PAUL ,R,R+21,Trump,39,66,27,Romney,36,67,31,-1
+MS,4,MS-4,PALAZZO, STEVEN ,R,R+21,Trump,41,69,28,Romney,36,68,31,2
+ID,1,ID-1,LABRADOR, RAUL ,R,R+21,Trump,38,64,25,Romney,33,65,32,-1
+TN,4,TN-4,DESJARLAIS, SCOTT ,R,R+20,Trump,41,68,27,Romney,32,65,33,3
+TN,2,TN-2,DUNCAN, JOHN ,R,R+20,Trump,35,65,30,Romney,36,67,31,-3
+TN,7,TN-7,BLACKBURN, MARSHA ,R,R+20,Trump,39,67,28,Romney,33,66,33,1
+LA,3,LA-3,ANGELLE, SCOTT ,R,R+20,Trump,38,67,29,Romney,34,66,32,1
+OK,4,OK-4,COLE, TOM ,R,R+20,Trump,37,66,28,Romney,34,67,33,-2
+VA,9,VA-9,GRIFFITH, H. MORGAN ,R,R+19,Trump,41,68,27,Romney,29,64,36,4
+WV,1,WV-1,MCKINLEY, DAVID ,R,R+19,Trump,42,68,26,Romney,27,62,36,6
+PA,9,PA-9,SHUSTER, WILLIAM ,R,R+19,Trump,43,70,27,Romney,27,63,36,7
+SC,3,SC-3,DUNCAN, JEFF ,R,R+19,Trump,38,67,29,Romney,31,65,34,2
+TN,8,TN-8,KUSTOFF, DAVID ,R,R+19,Trump,35,66,31,Romney,34,66,33,-1
+KY,2,KY-2,GUTHRIE, S. BRETT ,R,R+19,Trump,40,68,28,Romney,28,63,35,4
+LA,6,LA-6,GRAVES, GARRET ,R,R+19,Trump,34,65,31,Romney,34,66,32,-1
+AR,3,AR-3,WOMACK, STEVE ,R,R+19,Trump,31,62,31,Romney,34,66,32,-4
+FL,2,FL-2,DUNN, NEAL ,R,R+18,Trump,36,66,31,Romney,31,66,35,1
+MO,3,MO-3,LUETKEMEYER, BLAINE ,R,R+18,Trump,39,67,28,Romney,26,62,36,5
+TX,12,TX-12,GRANGER, KAY ,R,R+18,Trump,30,62,33,Romney,35,67,32,-4
+KY,4,KY-4,MASSIE, THOMAS ,R,R+18,Trump,36,65,29,Romney,29,63,35,2
+IN,6,IN-6,MESSER, ALLEN ,R,R+18,Trump,40,68,27,Romney,23,60,37,7
+GA,3,GA-3,FERGUSON, DREW ,R,R+18,Trump,32,64,33,Romney,33,66,33,-2
+TN,3,TN-3,FLEISCHMANN, CHUCK ,R,R+18,Trump,35,65,30,Romney,28,63,35,2
+TX,26,TX-26,BURGESS, MICHAEL ,R,R+18,Trump,26,60,34,Romney,37,68,31,-7
+AL,5,AL-5,BROOKS, MO ,R,R+18,Trump,33,64,31,Romney,29,64,35,0
+IN,3,IN-3,BANKS, JAMES ,R,R+18,Trump,35,65,30,Romney,27,63,36,2
+MO,4,MO-4,HARTZLER, VICKY ,R,R+17,Trump,36,65,29,Romney,25,61,36,4
+FL,4,FL-4,RUTHERFORD, JOHN ,R,R+17,Trump,28,62,34,Romney,34,67,33,-5
+GA,11,GA-11,LOUDERMILK, BARRY ,R,R+17,Trump,25,60,35,Romney,35,67,32,-7
+OK,1,OK-1,BRIDENSTINE, JIM ,R,R+17,Trump,29,61,33,Romney,32,66,34,-4
+OH,8,OH-8,DAVIDSON, WARREN ,R,R+17,Trump,34,65,30,Romney,26,62,36,3
+AR,1,AR-1,CRAWFORD, RICK ,R,R+17,Trump,35,65,30,Romney,25,61,36,4
+ID,2,ID-2,SIMPSON, MIKE ,R,R+17,Trump,25,55,30,Romney,31,64,33,-10
+AR,4,AR-4,WESTERMAN, BRUCE ,R,R+17,Trump,33,64,31,Romney,26,62,36,2
+WV,2,WV-2,MOONEY, ALEX ,R,R+17,Trump,36,66,29,Romney,22,60,38,6
+IN,4,IN-4,ROKITA, TODD ,R,R+17,Trump,34,64,30,Romney,24,61,37,3
+ND,AL,ND-AL,CRAMER, KEVIN ,R,R+16,Trump,36,63,27,Romney,20,58,39,5
+AL,3,AL-3,ROGERS, MIKE ,R,R+16,Trump,33,65,32,Romney,26,62,37,3
+TX,5,TX-5,HENSARLING, JEB ,R,R+16,Trump,28,63,34,Romney,30,65,34,-2
+PA,10,PA-10,MARINO, THOMAS ,R,R+16,Trump,36,66,30,Romney,22,60,39,6
+AL,2,AL-2,ROBY, MARTHA ,R,R+16,Trump,32,65,33,Romney,26,63,36,2
+MS,1,MS-1,KELLY, TRENT ,R,R+16,Trump,33,65,32,Romney,25,62,37,4
+UT,2,UT-2,STEWART, CHRIS ,R,R+16,Trump,14,46,32,Romney,39,68,29,-22
+OH,6,OH-6,JOHNSON, BILL ,R,R+16,Trump,42,69,27,Romney,13,55,43,14
+MO,6,MO-6,GRAVES, SAM ,R,R+16,Trump,32,63,31,Romney,22,60,38,4
+KS,4,KS-4,POMPEO, MIKE ,R,R+15,Trump,27,60,33,Romney,26,62,36,-2
+AL,1,AL-1,BYRNE, BRADLEY ,R,R+15,Trump,29,63,34,Romney,24,62,37,1
+IN,8,IN-8,BUCSHON, LARRY ,R,R+15,Trump,34,64,31,Romney,19,58,40,6
+GA,8,GA-8,SCOTT, AUSTIN ,R,R+15,Trump,29,63,34,Romney,24,62,38,2
+LA,5,LA-5,ABRAHAM, RALPH ,R,R+15,Trump,29,64,34,Romney,23,61,38,3
+SC,4,SC-4,GOWDY, TREY ,R,R+15,Trump,26,60,34,Romney,26,62,36,-2
+IL,18,IL-18,LAHOOD, DARIN ,R,R+15,Trump,27,60,33,Romney,23,61,37,0
+FL,11,FL-11,WEBSTER, DANIEL ,R,R+15,Trump,32,65,33,Romney,20,60,40,5
+GA,10,GA-10,HICE, JODY ,R,R+15,Trump,26,61,36,Romney,26,63,36,-1
+AZ,5,AZ-5,BIGGS, ANDY ,R,R+15,Trump,21,56,36,Romney,29,64,35,-8
+NC,11,NC-11,MEADOWS, MARK ,R,R+14,Trump,29,62,33,Romney,20,59,39,3
+SD,AL,SD-AL,NOEM, KRISTI ,R,R+14,Trump,30,62,32,Romney,18,58,40,4
+MD,1,MD-1,HARRIS, ANDY ,R,R+14,Trump,25,60,35,Romney,23,61,37,-1
+OH,4,OH-4,JORDAN, JIM ,R,R+14,Trump,33,64,31,Romney,14,56,42,8
+CA,23,CA-23,MCCARTHY, KEVIN ,R,R+14,Trump,22,58,36,Romney,25,62,36,-4
+CO,5,CO-5,LAMBORN, DOUG ,R,R+14,Trump,24,57,33,Romney,21,59,38,-2
+AZ,8,AZ-8,FRANKS, TRENT ,R,R+13,Trump,21,57,36,Romney,25,62,37,-5
+UT,4,UT-4,LOVE, MIA ,R,R+13,Trump,7,39,32,Romney,37,68,30,-29
+TX,27,TX-27,FARENTHOLD, BLAKE ,R,R+13,Trump,24,60,36,Romney,22,61,38,-1
+WA,4,WA-4,NEWHOUSE, DAN ,R,R+13,Trump,23,58,35,Romney,22,60,38,-2
+VA,6,VA-6,GOODLATTE, ROBERT ,R,R+13,Trump,25,59,35,Romney,20,60,40,-1
+MS,3,MS-3,HARPER, GREGG ,R,R+13,Trump,25,61,37,Romney,21,60,39,1
+PA,5,PA-5,THOMPSON, GLENN ,R,R+13,Trump,29,62,34,Romney,16,57,41,5
+TX,3,TX-3,JOHNSON, SAM ,R,R+13,Trump,14,54,40,Romney,30,64,34,-11
+MI,10,MI-10,MITCHELL, PAUL ,R,R+13,Trump,32,64,32,Romney,12,55,44,9
+IN,9,IN-9,HOLLINGSWORTH, JOSEPH ,R,R+13,Trump,27,61,34,Romney,17,57,41,4
+WI,5,WI-5,SENSENBRENNER, F. JAMES ,R,R+13,Trump,20,57,37,Romney,24,61,38,-5
+CO,4,CO-4,BUCK, KEN ,R,R+13,Trump,23,57,34,Romney,19,59,39,-1
+FL,19,FL-19,ROONEY, FRANCIS ,R,R+13,Trump,22,60,38,Romney,22,61,39,-1
+FL,17,FL-17,ROONEY, TOM ,R,R+13,Trump,27,62,35,Romney,16,58,42,4
+LA,4,LA-4,JOHNSON, MIKE ,R,R+13,Trump,24,61,37,Romney,19,59,40,2
+NC,10,NC-10,MCHENRY, PATRICK ,R,R+12,Trump,24,60,36,Romney,18,58,40,2
+MN,6,MN-6,EMMER, TOM ,R,R+12,Trump,26,58,33,Romney,15,56,41,2
+MN,7,MN-7,Peterson, Collin ,D,R+12,Trump,31,61,31,Romney,10,54,44,8
+NC,3,NC-3,JONES, WALTER ,R,R+12,Trump,24,60,36,Romney,17,58,41,2
+TX,17,TX-17,FLORES, BILL ,R,R+12,Trump,17,56,38,Romney,23,60,38,-5
+SC,2,SC-2,WILSON, JOE ,R,R+12,Trump,19,57,38,Romney,21,60,39,-3
+OH,7,OH-7,GIBBS, BOB ,R,R+12,Trump,30,62,33,Romney,10,54,44,9
+TX,14,TX-14,WEBER, RANDY ,R,R+12,Trump,20,58,38,Romney,20,59,40,-1
+PA,3,PA-3,KELLY, GEORGE ,R,R+11,Trump,26,61,35,Romney,13,56,43,6
+NE,1,NE-1,FORTENBERRY, JEFF ,R,R+11,Trump,21,56,36,Romney,17,57,41,-1
+CA,50,CA-50,HUNTER, DUNCAN ,R,R+11,Trump,15,55,40,Romney,23,60,38,-6
+PA,12,PA-12,ROTHFUS, KEITH ,R,R+11,Trump,21,59,38,Romney,17,58,41,1
+IN,2,IN-2,WALORSKI, JACKIE ,R,R+11,Trump,23,59,36,Romney,14,56,42,3
+OR,2,OR-2,WALDEN, GREG ,R,R+11,Trump,19,55,35,Romney,16,56,40,-2
+NY,27,NY-27,COLLINS, CHRIS ,R,R+11,Trump,24,59,35,Romney,12,55,43,4
+PA,4,PA-4,PERRY, SCOTT ,R,R+11,Trump,22,59,37,Romney,16,57,42,2
+TX,25,TX-25,WILLIAMS, ROGER ,R,R+11,Trump,15,55,40,Romney,22,60,38,-5
+CA,1,CA-1,LA MALFA, DOUG ,R,R+11,Trump,19,55,36,Romney,16,56,40,-1
+TX,2,TX-2,POE, TED ,R,R+11,Trump,9,52,43,Romney,27,63,36,-11
+PA,18,PA-18,MURPHY, TIMOTHY ,R,R+11,Trump,20,58,39,Romney,17,58,41,0
+IA,4,IA-4,KING, STEVE ,R,R+11,Trump,27,60,33,Romney,8,53,45,7
+OH,5,OH-5,LATTA, BOB ,R,R+11,Trump,25,59,34,Romney,10,54,44,5
+FL,8,FL-8,POSEY, BILL ,R,R+11,Trump,21,58,38,Romney,15,57,43,1
+MT,AL,MT-AL,ZINKE, RYAN ,R,R+11,Trump,20,56,36,Romney,14,55,42,1
+TX,31,TX-31,CARTER, JOHN ,R,R+10,Trump,13,53,40,Romney,21,60,38,-7
+CA,4,CA-4,MCCLINTOCK, TOM ,R,R+10,Trump,15,53,39,Romney,18,58,40,-5
+MI,4,MI-4,MOOLENAAR, JOHN ,R,R+10,Trump,25,59,35,Romney,8,53,45,6
+PA,11,PA-11,BARLETTA, LOU ,R,R+10,Trump,24,60,36,Romney,9,54,45,6
+TX,22,TX-22,OLSON, PETE ,R,R+10,Trump,8,52,44,Romney,25,62,37,-10
+KS,2,KS-2,JENKINS, LYNN ,R,R+10,Trump,18,56,37,Romney,13,55,42,0
+OK,5,OK-5,RUSSELL, STEVE ,R,R+10,Trump,14,53,40,Romney,19,59,41,-6
+TX,21,TX-21,SMITH, LAMAR ,R,R+10,Trump,10,52,42,Romney,22,60,38,-8
+NC,5,NC-5,FOXX, VIRGINIA ,R,R+10,Trump,17,57,39,Romney,14,56,42,0
+SC,1,SC-1,SANFORD, MARK ,R,R+10,Trump,13,53,41,Romney,18,58,40,-5
+NC,7,NC-7,ROUZER, DAVID ,R,R+ 9,Trump,18,57,39,Romney,13,56,43,1
+MI,2,MI-2,HUIZENGA, BILL ,R,R+ 9,Trump,17,55,38,Romney,13,56,43,-1
+AZ,6,AZ-6,SCHWEIKERT, DAVID ,R,R+ 9,Trump,10,52,42,Romney,21,60,39,-8
+FL,3,FL-3,YOHO, TED ,R,R+ 9,Trump,16,56,40,Romney,15,58,43,-1
+AK,AL,AK-AL,YOUNG, DON ,R,R+ 9,Trump,15,51,37,Romney,14,55,41,-4
+SC,5,SC-5,MULVANEY, MICK ,R,R+ 9,Trump,19,57,39,Romney,12,55,44,2
+MI,1,MI-1,BERGMAN, JACK ,R,R+ 9,Trump,21,58,37,Romney,8,54,45,4
+CA,8,CA-8,COOK, PAUL ,R,R+ 9,Trump,15,55,40,Romney,14,56,42,-1
+TX,10,TX-10,MCCAUL, MICHAEL ,R,R+ 9,Trump,9,52,43,Romney,20,59,39,-7
+TX,6,TX-6,BARTON, JOE ,R,R+ 9,Trump,12,54,42,Romney,17,58,41,-4
+KY,6,KY-6,BARR, ANDY ,R,R+ 9,Trump,15,55,39,Romney,14,56,42,-1
+IN,5,IN-5,BROOKS, SUSAN ,R,R+ 9,Trump,12,53,41,Romney,17,58,41,-5
+SC,7,SC-7,RICE, TOM ,R,R+ 9,Trump,19,58,39,Romney,10,55,45,3
+TX,24,TX-24,MARCHANT, KENNY ,R,R+ 9,Trump,6,51,44,Romney,22,60,38,-10
+GA,1,GA-1,CARTER, EARL ,R,R+ 9,Trump,16,56,41,Romney,13,56,43,1
+GA,7,GA-7,WOODALL, ROB ,R,R+ 9,Trump,6,51,45,Romney,22,60,38,-9
+GA,12,GA-12,ALLEN, RICK ,R,R+ 9,Trump,16,57,41,Romney,12,55,44,2
+OH,2,OH-2,WENSTRUP, BRAD ,R,R+ 9,Trump,16,56,40,Romney,11,55,44,1
+CA,42,CA-42,CALVERT, KEN ,R,R+ 9,Trump,12,53,41,Romney,15,57,41,-3
+NC,6,NC-6,WALKER, B. MARK ,R,R+ 9,Trump,15,56,41,Romney,13,56,43,0
+FL,12,FL-12,BILIRAKIS, GUS ,R,R+ 8,Trump,19,57,39,Romney,8,54,46,4
+MO,2,MO-2,WAGNER, ANN ,R,R+ 8,Trump,10,53,42,Romney,16,57,42,-5
+IL,16,IL-16,KINZINGER, ADAM ,R,R+ 8,Trump,17,55,38,Romney,8,53,45,2
+NC,8,NC-8,HUDSON, RICHARD ,R,R+ 8,Trump,15,56,41,Romney,10,55,44,1
+OH,16,OH-16,RENACCI, JIM ,R,R+ 8,Trump,17,56,39,Romney,8,54,45,3
+VA,1,VA-1,WITTMAN, ROBERT ,R,R+ 8,Trump,12,53,41,Romney,12,56,44,-3
+GA,6,GA-6,PRICE, TOM ,R,R+ 8,Trump,2,48,47,Romney,24,61,37,-13
+CA,22,CA-22,NUNES, DEVIN ,R,R+ 8,Trump,9,51,42,Romney,15,57,42,-5
+WI,6,WI-6,GROTHMAN, GLENN ,R,R+ 8,Trump,17,55,38,Romney,7,53,46,2
+NJ,4,NJ-4,SMITH, CHRISTOPHER ,R,R+ 8,Trump,15,56,41,Romney,10,55,45,1
+WI,7,WI-7,DUFFY, SEAN ,R,R+ 8,Trump,20,57,37,Romney,3,51,48,6
+WA,5,WA-5,MCMORRIS RODGERS, CATHY ,R,R+ 8,Trump,13,52,39,Romney,10,54,44,-1
+NC,9,NC-9,PITTENGER, ROBERT ,R,R+ 8,Trump,12,54,42,Romney,12,55,44,-1
+AR,2,AR-2,HILL, FRENCH ,R,R+ 7,Trump,11,52,42,Romney,12,55,43,-2
+FL,6,FL-6,DESANTIS, RON ,R,R+ 7,Trump,17,57,40,Romney,6,53,47,4
+NC,2,NC-2,HOLDING, GEORGE ,R,R+ 7,Trump,12,54,42,Romney,11,55,44,-1
+OH,12,OH-12,TIBERI, PAT ,R,R+ 7,Trump,11,53,42,Romney,11,54,44,-1
+WI,8,WI-8,GALLAGHER, MIKE ,R,R+ 7,Trump,17,56,38,Romney,4,51,48,5
+OH,15,OH-15,STIVERS, STEVE ,R,R+ 7,Trump,16,55,40,Romney,6,52,46,3
+NV,2,NV-2,AMODEI, MARK ,R,R+ 7,Trump,12,52,40,Romney,8,53,45,-1
+MI,7,MI-7,WALBERG, TIM ,R,R+ 7,Trump,17,56,39,Romney,3,51,48,5
+TX,7,TX-7,CULBERSON, JOHN ,R,R+ 7,Clinton,1,47,48,Romney,21,60,39,-13
+FL,16,FL-16,BUCHANAN, VERN ,R,R+ 7,Trump,11,54,43,Romney,9,54,46,-1
+VA,5,VA-5,GARRETT, TOM ,R,R+ 6,Trump,11,53,42,Romney,8,54,46,-1
+CO,3,CO-3,TIPTON, SCOTT ,R,R+ 6,Trump,12,52,40,Romney,6,52,46,0
+NM,2,NM-2,PEARCE, STEVE ,R,R+ 6,Trump,10,50,40,Romney,7,52,45,-2
+VA,7,VA-7,BRAT, DAVE ,R,R+ 6,Trump,7,50,44,Romney,11,56,44,-5
+MI,3,MI-3,AMASH, JUSTIN ,R,R+ 6,Trump,9,52,42,Romney,7,53,46,-2
+NY,23,NY-23,REED, THOMAS ,R,R+ 6,Trump,15,54,39,Romney,1,50,48,4
+NY,22,NY-22,TENNEY, CLAUDIA ,R,R+ 6,Trump,15,54,39,Romney,1,49,49,5
+NC,13,NC-13,BUDD, TED ,R,R+ 6,Trump,9,53,44,Romney,7,53,46,0
+FL,15,FL-15,ROSS, DENNIS ,R,R+ 6,Trump,10,53,43,Romney,6,53,47,0
+OH,14,OH-14,JOYCE, DAVID ,R,R+ 5,Trump,11,53,42,Romney,3,51,48,2
+WI,1,WI-1,RYAN, PAUL ,R,R+ 5,Trump,10,52,42,Romney,4,52,47,1
+MN,1,MN-1,Walz, Tim ,D,R+ 5,Trump,15,53,38,Obama,0,48,49,5
+IL,14,IL-14,HULTGREN, RANDALL ,R,R+ 5,Trump,4,48,45,Romney,10,54,44,-6
+IL,12,IL-12,BOST, MICHAEL ,R,R+ 5,Trump,15,55,40,Obama,2,48,50,7
+TX,32,TX-32,SESSIONS, PETE ,R,R+ 5,Clinton,2,47,48,Romney,16,57,42,-10
+PA,16,PA-16,SMUCKER, LLOYD ,R,R+ 5,Trump,7,51,44,Romney,6,52,46,-1
+FL,18,FL-18,MAST, BRIAN ,R,R+ 5,Trump,9,53,44,Romney,4,52,48,1
+OH,1,OH-1,CHABOT, STEVE ,R,R+ 5,Trump,7,51,45,Romney,6,52,46,-1
+NY,1,NY-1,ZELDIN, LEE ,R,R+ 5,Trump,12,54,42,Obama,1,49,50,5
+FL,25,FL-25,DIAZ-BALART, MARIO ,R,R+ 4,Trump,2,50,48,Romney,10,55,45,-5
+MN,8,MN-8,Nolan, Rick ,D,R+ 4,Trump,16,54,38,Obama,6,46,52,8
+PA,15,PA-15,DENT, CHARLES ,R,R+ 4,Trump,8,52,44,Romney,3,51,48,1
+MI,6,MI-6,UPTON, FRED ,R,R+ 4,Trump,8,51,43,Romney,1,50,49,1
+MI,8,MI-8,BISHOP, MIKE ,R,R+ 4,Trump,7,51,44,Romney,3,51,48,-1
+CA,48,CA-48,ROHRABACHER, DANA ,R,R+ 4,Clinton,2,46,48,Romney,12,55,43,-9
+MI,11,MI-11,TROTT, DAVE ,R,R+ 4,Trump,4,49,45,Romney,5,52,47,-3
+NE,2,NE-2,BACON, DON ,R,R+ 4,Trump,2,47,45,Romney,7,53,46,-5
+WA,3,WA-3,HERRERA BEUTLER, JAIME ,R,R+ 4,Trump,7,50,43,Romney,2,50,48,0
+OH,10,OH-10,TURNER, MIKE ,R,R+ 4,Trump,7,51,44,Romney,2,50,48,1
+NY,21,NY-21,STEFANIK, ELISE ,R,R+ 4,Trump,14,53,39,Obama,6,46,52,7
+KS,3,KS-3,YODER, KEVIN ,R,R+ 4,Clinton,1,46,47,Romney,10,54,44,-8
+NJ,11,NJ-11,FRELINGHUYSEN, RODNEY ,R,R+ 3,Trump,1,49,48,Romney,6,53,47,-4
+CA,45,CA-45,WALTERS, MIMI ,R,R+ 3,Clinton,5,44,49,Romney,12,55,43,-11
+VA,2,VA-2,TAYLOR, SCOTT ,R,R+ 3,Trump,3,48,45,Romney,2,51,49,-3
+IL,13,IL-13,DAVIS, RODNEY ,R,R+ 3,Trump,5,50,44,Romney,0,49,49,1
+NY,11,NY-11,DONOVAN, DAN ,R,R+ 3,Trump,10,53,44,Obama,4,47,52,6
+NJ,7,NJ-7,LANCE, LEONARD ,R,R+ 3,Clinton,1,48,49,Romney,6,53,47,-6
+NY,2,NY-2,KING, PETER ,R,R+ 3,Trump,9,53,44,Obama,4,47,52,5
+NJ,5,NJ-5,Gottheimer, Joshua ,D,R+ 3,Trump,1,49,48,Romney,3,52,49,-3
+AZ,1,AZ-1,O’Halleran, Tom ,D,R+ 2,Trump,1,47,46,Romney,3,50,48,-3
+ME,2,ME-2,POLIQUIN, BRUCE ,R,R+ 2,Trump,10,51,41,Obama,9,44,53,7
+PA,6,PA-6,COSTELLO, RYAN ,R,R+ 2,Clinton,1,48,48,Romney,2,51,48,-3
+NJ,3,NJ-3,MACARTHUR, TOM ,R,R+ 2,Trump,6,51,45,Obama,5,48,52,4
+MN,2,MN-2,LEWIS, JASON ,R,R+ 2,Trump,1,46,45,Obama,0,49,49,-3
+IL,6,IL-6,ROSKAM, PETER ,R,R+ 2,Clinton,7,43,50,Romney,8,53,45,-11
+NY,19,NY-19,FASO, JOHN ,R,R+ 2,Trump,7,50,44,Obama,6,46,52,4
+PA,8,PA-8,FITZPATRICK, BRIAN ,R,R+ 2,Trump,0,48,48,Romney,0,49,49,-1
+NV,3,NV-3,Rosen, Jacky ,D,R+ 2,Trump,1,48,47,Obama,4,49,49,-1
+NH,1,NH-1,Shea-Porter, Carol ,D,R+ 2,Trump,2,48,46,Obama,2,48,50,-1
+IA,3,IA-3,YOUNG, DAVID ,R,R+ 1,Trump,4,48,45,Obama,4,47,51,1
+PA,7,PA-7,MEEHAN, PATRICK ,R,R+ 1,Clinton,2,47,49,Romney,2,50,49,-3
+TX,23,TX-23,HURD, WILL ,R,R+ 1,Clinton,4,46,49,Romney,3,51,48,-5
+CA,49,CA-49,ISSA, DARRELL ,R,R+ 1,Clinton,8,43,51,Romney,7,52,46,-9
+PA,17,PA-17,Cartwright, Matthew ,D,R+ 1,Trump,10,53,43,Obama,12,43,55,10
+NY,18,NY-18,Maloney, Sean Patrick ,D,R+ 1,Trump,2,49,47,Obama,4,47,51,2
+NJ,2,NJ-2,LOBIONDO, FRANK ,R,R+ 1,Trump,5,51,46,Obama,8,46,54,5
+AZ,2,AZ-2,MCSALLY, MARTHA ,R,R+ 1,Clinton,5,44,49,Romney,2,50,48,-6
+WA,8,WA-8,REICHERT, DAVE ,R,EVEN,Clinton,3,45,48,Obama,2,48,50,-3
+CA,25,CA-25,KNIGHT, STEVE ,R,EVEN,Clinton,7,43,50,Romney,2,50,48,-6
+CA,39,CA-39,ROYCE, ED ,R,EVEN,Clinton,9,43,51,Romney,4,51,47,-8
+WI,3,WI-3,Kind, Ron ,D,EVEN,Trump,5,49,44,Obama,11,44,55,5
+CA,10,CA-10,DENHAM, JEFF ,R,EVEN,Clinton,3,45,48,Obama,4,47,51,-2
+OR,4,OR-4,DeFazio, Peter ,D,EVEN,Clinton,0,44,45,Obama,7,45,51,0
+FL,7,FL-7,Murphy, Stephanie ,D,EVEN,Clinton,7,44,51,Obama,0,50,50,-6
+OR,5,OR-5,Schrader, Kurt ,D,EVEN,Clinton,4,42,46,Obama,3,47,50,-5
+IA,2,IA-2,Loebsack, Dave ,D,D+ 1,Trump,4,49,44,Obama,13,43,56,6
+VA,10,VA-10,COMSTOCK, BARBARA ,R,D+ 1,Clinton,10,42,52,Romney,2,51,49,-9
+NY,3,NY-3,Suozzi, Thomas ,D,D+ 1,Clinton,6,45,51,Obama,3,48,51,-3
+IA,1,IA-1,BLUM, ROD ,R,D+ 1,Trump,4,48,45,Obama,14,42,56,6
+MN,3,MN-3,PAULSEN, ERIK ,R,D+ 1,Clinton,9,41,50,Obama,1,49,50,-8
+NH,2,NH-2,Kuster, Ann ,D,D+ 2,Clinton,2,45,48,Obama,10,44,54,1
+CA,36,CA-36,Ruiz, Raul ,D,D+ 2,Clinton,9,43,52,Obama,3,48,51,-4
+CT,5,CT-5,Esty, Elizabeth ,D,D+ 2,Clinton,4,46,50,Obama,8,45,54,1
+FL,13,FL-13,Crist, Charlie ,D,D+ 2,Clinton,3,46,50,Obama,11,45,55,2
+CO,6,CO-6,COFFMAN, MIKE ,R,D+ 2,Clinton,9,41,50,Obama,5,47,52,-5
+NV,4,NV-4,Kihuen, Ruben ,D,D+ 3,Clinton,5,45,50,Obama,11,44,54,1
+IL,17,IL-17,Bustos, Cheri ,D,D+ 3,Trump,1,47,47,Obama,17,41,57,6
+CA,7,CA-7,Bera, Ami ,D,D+ 3,Clinton,11,40,51,Obama,4,47,51,-7
+CT,2,CT-2,Courtney, Joe ,D,D+ 3,Clinton,3,46,49,Obama,13,43,56,3
+NY,24,NY-24,KATKO, JOHN ,R,D+ 3,Clinton,4,45,49,Obama,16,41,57,4
+AZ,9,AZ-9,Sinema, Kyrsten ,D,D+ 4,Clinton,16,38,54,Obama,5,47,51,-9
+NY,4,NY-4,Rice, Kathleen ,D,D+ 4,Clinton,10,43,53,Obama,12,43,56,0
+MI,9,MI-9,Levin, Sander ,D,D+ 4,Clinton,8,44,51,Obama,15,42,57,2
+MA,9,MA-9,Keating, William ,D,D+ 4,Clinton,11,41,52,Obama,12,43,55,-2
+CA,3,CA-3,Garamendi, John ,D,D+ 5,Clinton,13,40,53,Obama,11,43,54,-3
+FL,9,FL-9,Soto, Darren ,D,D+ 5,Clinton,13,42,55,Obama,12,44,56,-2
+FL,27,FL-27,ROS-LEHTINEN, ILEANA ,R,D+ 5,Clinton,20,39,59,Obama,7,47,53,-8
+MI,5,MI-5,Kildee, Daniel ,D,D+ 5,Clinton,4,45,50,Obama,22,38,61,7
+CA,21,CA-21,VALADAO, DAVID ,R,D+ 5,Clinton,15,39,55,Obama,11,44,55,-4
+WA,10,WA-10,Heck, Denny ,D,D+ 5,Clinton,11,40,51,Obama,15,41,56,-1
+MD,6,MD-6,Delaney, John ,D,D+ 6,Clinton,15,40,55,Obama,12,43,55,-3
+FL,26,FL-26,CURBELO, CARLOS ,R,D+ 6,Clinton,16,41,57,Obama,12,44,56,-4
+CO,7,CO-7,Perlmutter, Ed ,D,D+ 6,Clinton,12,40,52,Obama,15,42,56,-2
+KY,3,KY-3,Yarmuth, John ,D,D+ 6,Clinton,15,40,55,Obama,13,43,56,-3
+WA,1,WA-1,DelBene, Suzan ,D,D+ 6,Clinton,16,38,54,Obama,11,43,54,-6
+WA,6,WA-6,Kilmer, Derek ,D,D+ 6,Clinton,12,40,52,Obama,15,41,56,-2
+RI,2,RI-2,Langevin, Jim ,D,D+ 6,Clinton,7,43,50,Obama,22,38,60,5
+FL,22,FL-22,Deutch, Ted ,D,D+ 6,Clinton,16,41,57,Obama,13,43,57,-2
+GA,2,GA-2,Bishop, Sanford ,D,D+ 6,Clinton,12,43,55,Obama,18,41,59,3
+MA,6,MA-6,Moulton, Seth ,D,D+ 6,Clinton,18,38,55,Obama,11,44,55,-6
+IL,3,IL-3,Lipinski, Daniel ,D,D+ 6,Clinton,15,39,55,Obama,14,43,56,-3
+CA,52,CA-52,Peters, Scott ,D,D+ 6,Clinton,23,36,58,Obama,6,46,52,-10
+DE,AL,DE-AL,Carney, John C. Jr.,D,D+ 6,Clinton,11,42,53,Obama,19,40,59,2
+CA,24,CA-24,Carbajal, Salud ,D,D+ 7,Clinton,20,36,56,Obama,11,43,54,-7
+TN,5,TN-5,Cooper, Jim ,D,D+ 7,Clinton,18,38,56,Obama,13,43,56,-5
+TX,15,TX-15,Gonzalez, Vicente ,D,D+ 7,Clinton,17,40,56,Obama,16,42,57,-2
+CA,26,CA-26,Brownley, Julia ,D,D+ 7,Clinton,21,35,57,Obama,10,44,54,-9
+OH,13,OH-13,Ryan, Tim ,D,D+ 7,Clinton,7,45,51,Obama,27,36,63,9
+NY,20,NY-20,Tonko, Paul ,D,D+ 7,Clinton,13,40,53,Obama,20,39,59,1
+CT,4,CT-4,Himes, Jim ,D,D+ 7,Clinton,23,37,60,Obama,11,44,55,-8
+MO,5,MO-5,Cleaver, Emanuel ,D,D+ 7,Clinton,15,40,55,Obama,20,39,59,0
+FL,14,FL-14,Castor, Kathy ,D,D+ 7,Clinton,18,39,57,Obama,17,42,58,-3
+NM,1,NM-1,Lujan Grisham, Michelle ,D,D+ 7,Clinton,17,35,52,Obama,16,40,55,-5
+NY,17,NY-17,Lowey, Nita ,D,D+ 7,Clinton,20,38,58,Obama,15,42,57,-4
+NM,3,NM-3,Lujan, Ben Ray ,D,D+ 8,Clinton,15,37,52,Obama,19,39,58,-2
+NY,25,NY-25,Slaughter, Louise ,D,D+ 8,Clinton,16,39,55,Obama,19,39,59,-1
+IN,1,IN-1,Visclosky, Peter ,D,D+ 8,Clinton,13,41,54,Obama,24,37,61,4
+CA,9,CA-9,McNerney, Jerry ,D,D+ 8,Clinton,18,37,55,Obama,18,40,58,-3
+ME,1,ME-1,Pingree, Chellie ,D,D+ 8,Clinton,15,39,54,Obama,21,38,59,1
+CA,31,CA-31,Aguilar, Pete ,D,D+ 8,Clinton,21,37,58,Obama,17,41,57,-4
+IL,8,IL-8,Krishnamoorthi, Raja ,D,D+ 8,Clinton,22,36,58,Obama,17,41,58,-5
+MA,3,MA-3,Tsongas, Nicola ,D,D+ 9,Clinton,23,35,57,Obama,16,41,57,-7
+NJ,6,NJ-6,Pallone, Frank ,D,D+ 9,Clinton,16,41,56,Obama,24,38,62,3
+MA,2,MA-2,McGovern, James ,D,D+ 9,Clinton,19,36,55,Obama,20,39,59,-3
+FL,21,FL-21,Frankel, Lois ,D,D+ 9,Clinton,20,39,59,Obama,22,39,61,0
+MA,4,MA-4,Kennedy, Joseph ,D,D+ 9,Clinton,24,34,58,Obama,16,41,57,-7
+CO,2,CO-2,Polis, Jared ,D,D+ 9,Clinton,21,35,56,Obama,18,40,58,-5
+TX,28,TX-28,Cuellar, Henry ,D,D+ 9,Clinton,20,38,58,Obama,22,39,60,-1
+IL,11,IL-11,Foster, Bill ,D,D+ 9,Clinton,23,35,58,Obama,17,41,58,-5
+CA,16,CA-16,Costa, Jim ,D,D+ 9,Clinton,21,36,57,Obama,19,39,59,-3
+OR,1,OR-1,Bonamici, Suzanne ,D,D+ 9,Clinton,22,33,55,Obama,17,40,57,-7
+CT,3,CT-3,DeLauro, Rosa ,D,D+ 9,Clinton,16,40,56,Obama,26,36,63,4
+VA,4,VA-4,McEachin, A. Donald ,D,D+10,Clinton,21,37,58,Obama,22,39,61,-2
+MA,8,MA-8,Lynch, Stephen ,D,D+10,Clinton,26,34,60,Obama,17,41,58,-7
+TX,34,TX-34,Vela, Filemon ,D,D+10,Clinton,22,38,59,Obama,22,38,61,-1
+WA,2,WA-2,Larsen, Rick ,D,D+10,Clinton,22,35,57,Obama,21,38,59,-3
+TX,20,TX-20,Castro, Joaquin ,D,D+10,Clinton,26,34,60,Obama,19,40,59,-6
+IL,10,IL-10,Schneider, Brad ,D,D+10,Clinton,29,32,61,Obama,16,41,58,-9
+FL,10,FL-10,Demings, Val ,D,D+11,Clinton,27,35,62,Obama,22,39,61,-4
+FL,23,FL-23,Schultz, Debbie ,D,D+11,Clinton,26,36,62,Obama,24,38,62,-2
+MD,2,MD-2,Ruppersberger, C. A. Dutch ,D,D+11,Clinton,21,37,58,Obama,28,35,63,2
+NY,26,NY-26,Higgins, Brian ,D,D+11,Clinton,20,38,58,Obama,30,34,64,4
+IN,7,IN-7,Carson, Andre ,D,D+11,Clinton,23,36,58,Obama,28,35,63,0
+CT,1,CT-1,Larson, John ,D,D+12,Clinton,23,36,59,Obama,28,36,63,1
+MA,1,MA-1,Neal, Richard ,D,D+12,Clinton,20,36,56,Obama,30,34,64,2
+FL,5,FL-5,Lawson, Al ,D,D+12,Clinton,25,36,61,Obama,28,36,64,0
+CA,41,CA-41,Takano, Mark ,D,D+12,Clinton,28,33,61,Obama,25,36,62,-3
+AZ,3,AZ-3,Grijalva, Raul ,D,D+13,Clinton,30,32,62,Obama,25,37,61,-5
+NJ,1,NJ-1,Norcross, Donald ,D,D+13,Clinton,25,36,61,Obama,32,34,66,2
+CA,47,CA-47,Lowenthal, Alan ,D,D+13,Clinton,32,31,62,Obama,23,38,60,-7
+MD,3,MD-3,Sarbanes, John ,D,D+13,Clinton,31,32,63,Obama,25,37,61,-5
+OH,9,OH-9,Kaptur, Marcy ,D,D+14,Clinton,22,37,59,Obama,37,31,68,6
+MN,4,MN-4,McCollum, Betty ,D,D+14,Clinton,31,30,61,Obama,27,35,62,-5
+RI,1,RI-1,Cicilline, David ,D,D+14,Clinton,25,34,59,Obama,34,32,66,2
+MI,12,MI-12,Dingell, Debbie ,D,D+14,Clinton,26,34,61,Obama,34,33,66,1
+MD,8,MD-8,Raskin, Jamie ,D,D+14,Clinton,33,31,64,Obama,27,36,62,-5
+MS,2,MS-2,Thompson, Bennie ,D,D+14,Clinton,28,35,64,Obama,33,33,66,2
+CA,53,CA-53,Davis, Susan ,D,D+14,Clinton,35,30,65,Obama,25,36,61,-7
+TX,35,TX-35,Doggett, Lloyd ,D,D+15,Clinton,33,30,64,Obama,28,35,63,-4
+NV,1,NV-1,Titus, Dina ,D,D+15,Clinton,29,33,62,Obama,33,32,65,0
+CA,46,CA-46,Correa, Lou ,D,D+15,Clinton,38,28,66,Obama,25,36,61,-9
+VT,AL,VT-AL,Welch, Peter ,D,D+15,Clinton,26,30,57,Obama,36,31,67,-1
+VA,11,VA-11,Connolly, Gerald ,D,D+15,Clinton,39,27,66,Obama,25,37,63,-10
+PA,13,PA-13,Boyle, Brendan ,D,D+15,Clinton,34,32,65,Obama,33,33,66,-1
+CA,27,CA-27,Chu, Judy ,D,D+16,Clinton,38,28,66,Obama,28,35,63,-7
+CA,33,CA-33,Lieu, Ted ,D,D+16,Clinton,41,27,68,Obama,24,37,61,-10
+NJ,12,NJ-12,Watson Coleman, Bonnie ,D,D+16,Clinton,33,32,65,Obama,35,33,67,-1
+VA,3,VA-3,Scott, Robert ,D,D+16,Clinton,32,32,63,Obama,36,32,68,0
+MD,5,MD-5,Hoyer, Steny ,D,D+16,Clinton,34,31,65,Obama,34,32,66,-1
+NJ,9,NJ-9,Pascrell, Bill ,D,D+16,Clinton,31,33,64,Obama,38,31,69,2
+NY,6,NY-6,Meng, Grace ,D,D+16,Clinton,33,32,65,Obama,37,31,68,1
+NC,4,NC-4,Price, David ,D,D+17,Clinton,40,27,68,Obama,29,35,64,-7
+TX,16,TX-16,O’Rourke, Beto ,D,D+17,Clinton,40,27,67,Obama,30,35,64,-8
+CA,38,CA-38,Sanchez, Linda ,D,D+17,Clinton,40,27,67,Obama,32,33,65,-6
+PA,14,PA-14,Doyle, Michael ,D,D+17,Clinton,35,31,66,Obama,37,31,68,0
+CA,32,CA-32,Napolitano, Grace ,D,D+17,Clinton,39,28,67,Obama,33,33,65,-5
+NC,1,NC-1,Butterfield, G.K. ,D,D+17,Clinton,37,30,67,Obama,36,32,68,-2
+HI,1,HI-1,Hanabusa, Colleen ,D,D+17,Clinton,33,31,63,Obama,41,29,70,2
+WI,2,WI-2,Pocan, Mark ,D,D+18,Clinton,36,29,65,Obama,38,30,68,-2
+NC,12,NC-12,Adams, Alma ,D,D+18,Clinton,40,28,68,Obama,36,31,68,-4
+MA,5,MA-5,Clark, Katherine ,D,D+18,Clinton,43,25,68,Obama,32,33,65,-8
+IL,9,IL-9,Schakowsky, Janice ,D,D+18,Clinton,45,25,69,Obama,32,33,65,-9
+CA,30,CA-30,Sherman, Brad ,D,D+18,Clinton,43,26,69,Obama,33,32,65,-6
+TX,29,TX-29,Green, Gene ,D,D+19,Clinton,46,25,71,Obama,33,33,66,-8
+HI,2,HI-2,Gabbard, Tulsi ,D,D+19,Clinton,32,30,61,Obama,45,27,71,3
+CA,35,CA-35,Torres, Norma ,D,D+19,Clinton,41,27,68,Obama,37,31,67,-4
+OH,3,OH-3,Beatty, Joyce ,D,D+19,Clinton,39,28,67,Obama,41,29,70,-1
+SC,6,SC-6,Clyburn, Jim ,D,D+19,Clinton,37,30,67,Obama,44,27,72,2
+IL,5,IL-5,Quigley, Mike ,D,D+20,Clinton,46,24,70,Obama,34,32,66,-8
+GA,13,GA-13,Scott, David ,D,D+20,Clinton,45,27,71,Obama,39,30,69,-3
+CA,15,CA-15,Swalwell, Eric ,D,D+20,Clinton,45,24,69,Obama,38,30,68,-6
+AL,7,AL-7,Sewell, Terri ,D,D+20,Clinton,41,28,70,Obama,46,27,73,1
+WA,9,WA-9,Smith, Adam ,D,D+21,Clinton,47,23,70,Obama,39,30,68,-6
+CA,6,CA-6,Matsui, Doris ,D,D+21,Clinton,44,24,68,Obama,41,28,69,-4
+CA,11,CA-11,DeSaulnier, Mark ,D,D+21,Clinton,48,22,70,Obama,38,30,68,-8
+CO,1,CO-1,DeGette, Diana ,D,D+21,Clinton,46,23,69,Obama,40,29,69,-6
+VA,8,VA-8,Beyer, Donald ,D,D+21,Clinton,52,21,72,Obama,35,32,68,-12
+CA,5,CA-5,Thompson, Mike ,D,D+21,Clinton,45,24,69,Obama,42,27,70,-3
+CA,51,CA-51,Vargas, Juan ,D,D+22,Clinton,49,23,72,Obama,41,29,69,-6
+CA,2,CA-2,Huffman, Jared ,D,D+22,Clinton,45,23,68,Obama,42,27,69,-4
+TX,33,TX-33,Veasey, Marc ,D,D+23,Clinton,49,24,73,Obama,45,27,72,-3
+CA,20,CA-20,Panetta, Jimmy ,D,D+23,Clinton,47,23,70,Obama,45,26,71,-3
+CA,18,CA-18,Eshoo, Anna ,D,D+23,Clinton,53,20,73,Obama,39,29,68,-9
+CA,28,CA-28,Schiff, Adam ,D,D+23,Clinton,50,22,72,Obama,44,27,70,-4
+AZ,7,AZ-7,Gallego, Ruben ,D,D+23,Clinton,48,22,71,Obama,45,27,72,-4
+CA,19,CA-19,Lofgren, Zoe ,D,D+24,Clinton,51,22,73,Obama,45,27,71,-5
+OR,3,OR-3,Blumenauer, Earl ,D,D+24,Clinton,47,22,68,Obama,47,25,72,-3
+NY,16,NY-16,Engel, Eliot ,D,D+24,Clinton,52,22,75,Obama,48,26,74,-3
+GA,4,GA-4,Johnson, Henry ,D,D+24,Clinton,53,22,75,Obama,48,26,74,-3
+CA,17,CA-17,Khanna, Ro ,D,D+25,Clinton,53,20,74,Obama,46,26,72,-5
+WI,4,WI-4,Moore, Gwen ,D,D+25,Clinton,52,22,73,Obama,52,24,75,-2
+LA,2,LA-2,Richmond, Cedric ,D,D+25,Clinton,53,22,75,Obama,53,23,76,0
+MD,7,MD-7,Cummings, Elijah ,D,D+26,Clinton,53,22,74,Obama,53,23,76,-1
+NY,10,NY-10,Nadler, Jerrold ,D,D+26,Clinton,59,19,78,Obama,49,25,74,-6
+MN,5,MN-5,Ellison, Keith ,D,D+26,Clinton,55,18,73,Obama,49,24,73,-6
+TX,18,TX-18,Jackson Lee, Sheila ,D,D+27,Clinton,56,20,76,Obama,53,23,76,-3
+CA,14,CA-14,Speier, Jackie ,D,D+27,Clinton,59,18,77,Obama,51,24,74,-5
+NJ,8,NJ-8,Sires, Albio ,D,D+27,Clinton,54,22,76,Obama,58,21,79,1
+IL,1,IL-1,Rush, Bobby ,D,D+27,Clinton,53,22,75,Obama,59,20,79,1
+MD,4,MD-4,Brown, Anthony ,D,D+28,Clinton,57,20,77,Obama,57,21,78,-1
+TN,9,TN-9,Cohen, Steve ,D,D+28,Clinton,57,20,77,Obama,58,21,79,-1
+TX,9,TX-9,Green, Al ,D,D+29,Clinton,61,18,79,Obama,57,21,78,-3
+CA,29,CA-29,Cardenas, Tony ,D,D+29,Clinton,61,17,78,Obama,57,21,77,-4
+MO,1,MO-1,Clay, Lacy ,D,D+29,Clinton,58,19,77,Obama,61,19,80,0
+NY,14,NY-14,Crowley, Joseph ,D,D+29,Clinton,58,20,77,Obama,62,18,81,1
+TX,30,TX-30,Johnson, Eddie Bernice ,D,D+29,Clinton,61,18,79,Obama,60,20,80,-1
+IL,2,IL-2,Kelly, Robin ,D,D+29,Clinton,59,19,78,Obama,62,19,81,0
+CA,43,CA-43,Waters, Maxine ,D,D+29,Clinton,62,17,78,Obama,58,20,78,-3
+MI,14,MI-14,Lawrence, Brenda ,D,D+30,Clinton,61,18,79,Obama,62,19,81,0
+NY,12,NY-12,Maloney, Carolyn ,D,D+31,Clinton,69,13,82,Obama,55,22,77,-8
+PA,1,PA-1,Brady, Robert ,D,D+31,Clinton,61,18,80,Obama,65,17,82,1
+FL,20,FL-20,Hastings, Alcee ,D,D+31,Clinton,62,18,80,Obama,66,17,83,1
+OH,11,OH-11,Fudge, Marcia ,D,D+32,Clinton,64,17,81,Obama,67,16,83,1
+MI,13,MI-13,Conyers, John ,D,D+32,Clinton,61,18,79,Obama,71,14,85,4
+WA,7,WA-7,Jayapal, Pramila ,D,D+33,Clinton,70,12,82,Obama,61,18,79,-6
+IL,4,IL-4,Gutierrez, Luis ,D,D+33,Clinton,68,13,81,Obama,64,17,81,-4
+CA,40,CA-40,Roybal-Allard, Lucille ,D,D+33,Clinton,70,13,82,Obama,65,17,82,-4
+FL,24,FL-24,Wilson, Frederica ,D,D+34,Clinton,67,16,83,Obama,72,14,86,2
+NY,9,NY-9,Clarke, Yvette ,D,D+34,Clinton,69,14,83,Obama,71,14,85,0
+MA,7,MA-7,Capuano, Michael ,D,D+34,Clinton,71,12,83,Obama,67,16,82,-4
+GA,5,GA-5,Lewis, John ,D,D+34,Clinton,73,12,85,Obama,67,16,83,-4
+CA,44,CA-44,Barragan, Nanette ,D,D+35,Clinton,71,12,83,Obama,71,14,85,-1
+CA,34,CA-34,Becerra, Xavier ,D,D+35,Clinton,73,11,84,Obama,69,14,83,-3
+NJ,10,NJ-10,Payne, Donald ,D,D+36,Clinton,72,13,85,Obama,77,12,88,1
+NY,8,NY-8,Jeffries, Hakeem ,D,D+36,Clinton,71,13,84,Obama,79,10,89,3
+CA,37,CA-37,Bass, Karen ,D,D+37,Clinton,76,10,86,Obama,72,13,85,-3
+NY,5,NY-5,Meeks, Gregory ,D,D+37,Clinton,73,13,85,Obama,80,10,90,3
+CA,12,CA-12,Pelosi, Nancy ,D,D+37,Clinton,77,9,85,Obama,72,13,84,-4
+IL,7,IL-7,Davis, Danny ,D,D+38,Clinton,77,9,87,Obama,76,12,87,-3
+NY,7,NY-7,Velazquez, Nydia ,D,D+38,Clinton,76,10,86,Obama,78,10,89,0
+PA,2,PA-2,Evans, Dwight ,D,D+40,Clinton,83,8,90,Obama,81,9,90,-1
+CA,13,CA-13,Lee, Barbara ,D,D+40,Clinton,79,7,86,Obama,79,9,88,-2
+NY,13,NY-13,Espaillat, Adriano ,D,D+43,Clinton,86,5,92,Obama,90,5,95,1
+NY,15,NY-15,Serrano, Jose ,D,D+44,Clinton,89,5,94,Obama,94,3,97,2
